@@ -100,7 +100,7 @@ header.shadow .logo{
 .home{
     width: 100%;
     min-height: 440px;
-    background: url("banner2.png");
+    background: url("banner.png");
     display: grid;
     justify-content: center;
     align-items: center;
